@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @joseph12321
+- 👀 I’m interested in all things programming especially machine learning and data analytics
+- 🌱 I’m familiar with Python, R, VBA, MATLAB, and SQL
